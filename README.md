@@ -1,5 +1,7 @@
 ![hero image](https://github.com/user-attachments/assets/9fe1eb9d-9f6d-4f74-8fd9-722f5c08689c)
 
+https://cute-klepon-ac3177.netlify.app 
+
 Overview
 A modern, fast movie database web application built with React using The Movie DB API. This app displays popular movies and provides a search functionality to find your favorite films. Each movie page shows detailed information including cast, crew, runtime, budget, revenue, ratings, and more.
 
